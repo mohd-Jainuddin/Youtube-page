@@ -1,0 +1,18 @@
+.left{
+    display: flex;
+    justify-content: space-around;
+    width: 100px;
+}
+.center{
+    display: flex;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+}
+.left .logo{
+    color: red;
+}
